@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5aba020c84f03256",
+    "type": "split",
+    "children": [
+      {
+        "id": "e636b731197b8a37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e95dbb4093cab0b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d65058859a0c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac422d949101075",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6410dc3bc8796703",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd39c2814c0ec73d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee770314aecf8330",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d7de1a1f6ca3132",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc42214f0d9b3f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9972afed6edb07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de823ebc6002a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a50397d11c8b489",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8b16790416669de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c9c4bb0bf8553e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "e95dbb4093cab0b7",
+  "lastOpenFiles": [
+    "Глоссарий/Единство/Верования/Верования.md",
+    "Глоссарий/Единство/Биосфера/Флора/Флора.md",
+    "Глоссарий/Единство/Биосфера/Флора/Липкий Орех.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Чистильщик.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Цезарь.md",
+    "Глоссарий/Единство/Биосфера/Флора/Свет Деревья.md",
+    "Глоссарий/Единство/Биосфера/Флора/Коронный Лист.md",
+    "Глоссарий/Единство/Биосфера/Флора/Игг-древа.md",
+    "Глоссарий/Единство/Биосфера/Флора/Адамово Яблоко.md",
+    "Глоссарий/Единство/Биосфера/Флора/Дождевики.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Фауна.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Тропос.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Тенеподы.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Тауро.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Полярия.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Небесные змеи.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Найтволк.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Камнеед.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Йурр.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Змееглав.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Дрейки.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Голиаф.md",
+    "Глоссарий/Единство/Биосфера/Фауна/Волкер.md",
+    "Глоссарий/Единство/Биосфера/Естественные Враги Единства/Фрогги.md",
+    "Глоссарий/Единство/Биосфера/Естественные Враги Единства/Тавры.md",
+    "Глоссарий/Единство/Биосфера/Естественные Враги Единства/Естественные Враги Единства.md",
+    "Pasted image 20240825150411.png",
+    "Глоссарий/Единство/Октагоны/Круг/Круг Элтанир/Эльтанир.jpg",
+    "Глоссарий/Единство/Октагоны/Pasted image 20240825140304.png",
+    "Глоссарий/Единство/Октагоны/Круг/Круг Элтанир/Фригольд Небо",
+    "Глоссарий/Восхождение/Руны/Великие Руны",
+    "Pasted image 20240825120544.png",
+    "Pasted image 20240825120459.png",
+    "НРИ с интернет-знакомыми/Игровая веселенная",
+    "НРИ с интернет-знакомыми/Персонаж/Навыки",
+    "НРИ с интернет-знакомыми/Персонаж/Способности",
+    "НРИ с интернет-знакомыми/Персонаж/Характеристики",
+    "НРИ с интернет-знакомыми/Персонаж/Специалитеты",
+    "НРИ с интернет-знакомыми/Персонаж",
+    "НРИ с интернет-знакомыми/Словарь",
+    "НРИ с интернет-знакомыми",
+    "Untitled.canvas"
+  ]
+}
